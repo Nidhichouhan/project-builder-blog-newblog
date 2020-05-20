@@ -62,21 +62,19 @@
             </div>
         </div>
 
-    <!--         <div class="article-card">
+    <!--       <div class="article-card">
             <img src="./assets/java card image.svg" alt="">
             <div class="card-text">
                 <h1>HTML, CSS and JavaScript Explained For Beginners</h1>
                 <p>In this post, I explain what HTML, CSS, and JavaScript is and why do you need all three of them to
                     create a web application. As I scrolled through some web development forums, I noticed that more
                     people than one</p>
-
                 <p>Posted on <b>July 9, 2019 by Marc Backes</b> </p>
             </div>
             <div class="card-buttons">
                 <a href="">EDIT</a> <span>|</span><a href="">DELETE</a>
             </div>
         </div>
-
         <div class="article-card">
             <img src="./assets/java card image.svg" alt="">
             <div class="card-text">
@@ -84,14 +82,12 @@
                 <p>In this post, I explain what HTML, CSS, and JavaScript is and why do you need all three of them to
                     create a web application. As I scrolled through some web development forums, I noticed that more
                     people than one</p>
-
                 <p>Posted on <b>July 9, 2019 by Marc Backes</b> </p>
             </div>
             <div class="card-buttons">
                 <a href="">EDIT</a> <span>|</span><a href="">DELETE</a>
             </div>
         </div>
-
         <div class="article-card">
             <img src="./assets/java card image.svg" alt="">
             <div class="card-text">
@@ -99,14 +95,12 @@
                 <p>In this post, I explain what HTML, CSS, and JavaScript is and why do you need all three of them to
                     create a web application. As I scrolled through some web development forums, I noticed that more
                     people than one</p>
-
                 <p>Posted on <b>July 9, 2019 by Marc Backes</b> </p>
             </div>
             <div class="card-buttons">
                 <a href="">EDIT</a> <span>|</span><a href="">DELETE</a>
             </div>
         </div>
-
         <div class="article-card">
             <img src="./assets/java card image.svg" alt="">
             <div class="card-text">
@@ -114,14 +108,12 @@
                 <p>In this post, I explain what HTML, CSS, and JavaScript is and why do you need all three of them to
                     create a web application. As I scrolled through some web development forums, I noticed that more
                     people than one</p>
-
                 <p>Posted on <b>July 9, 2019 by Marc Backes</b> </p>
             </div>
             <div class="card-buttons">
                 <a href="">EDIT</a> <span>|</span><a href="">DELETE</a>
             </div>
         </div>
-
         <div class="article-card">
             <img src="./assets/java card image.svg" alt="">
             <div class="card-text">
@@ -129,7 +121,6 @@
                 <p>In this post, I explain what HTML, CSS, and JavaScript is and why do you need all three of them to
                     create a web application. As I scrolled through some web development forums, I noticed that more
                     people than one</p>
-
                 <p>Posted on <b>July 9, 2019 by Marc Backes</b> </p>
             </div>
             <div class="card-buttons">
